@@ -7,5 +7,7 @@
 			"path": "C:\\Users\\Miguel\\MyPythonScripts"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"gitdoc.enabled": true
+	}
 }

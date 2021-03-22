@@ -1,0 +1,178 @@
+2020-05-22 15:49:01,942 - DEBUG - start of program
+2020-05-22 15:49:02,925 - DEBUG - start of factorial (9)
+2020-05-22 15:49:02,925 - DEBUG - i is 1, total is 1
+2020-05-22 15:49:02,925 - DEBUG - i is 2, total is 2
+2020-05-22 15:49:02,925 - DEBUG - i is 3, total is 6
+2020-05-22 15:49:02,926 - DEBUG - i is 4, total is 24
+2020-05-22 15:49:02,926 - DEBUG - i is 5, total is 120
+2020-05-22 15:49:02,926 - DEBUG - i is 6, total is 720
+2020-05-22 15:49:02,926 - DEBUG - i is 7, total is 5040
+2020-05-22 15:49:02,926 - DEBUG - i is 8, total is 40320
+2020-05-22 15:49:02,927 - DEBUG - i is 9, total is 362880
+2020-05-22 15:49:02,927 - DEBUG - return value is 362880
+2020-05-22 15:49:03,343 - DEBUG - end of program
+2020-05-22 15:51:07,295 - DEBUG - start of program
+2020-05-22 15:51:07,295 - DEBUG - start of factorial (9)
+2020-05-22 15:51:07,295 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:07,295 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:07,295 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:07,295 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:07,295 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:07,295 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:07,295 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:07,295 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:07,296 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:07,296 - DEBUG - return value is 362880
+2020-05-22 15:51:07,296 - DEBUG - end of program
+2020-05-22 15:51:07,919 - DEBUG - start of program
+2020-05-22 15:51:07,919 - DEBUG - start of factorial (9)
+2020-05-22 15:51:07,919 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:07,919 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:07,919 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:07,919 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:07,919 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:07,919 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:07,920 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:07,920 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:07,920 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:07,920 - DEBUG - return value is 362880
+2020-05-22 15:51:07,920 - DEBUG - end of program
+2020-05-22 15:51:08,385 - DEBUG - start of program
+2020-05-22 15:51:08,385 - DEBUG - start of factorial (9)
+2020-05-22 15:51:08,385 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:08,385 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:08,385 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:08,385 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:08,385 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:08,386 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:08,386 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:08,386 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:08,386 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:08,386 - DEBUG - return value is 362880
+2020-05-22 15:51:08,386 - DEBUG - end of program
+2020-05-22 15:51:09,071 - DEBUG - start of program
+2020-05-22 15:51:09,071 - DEBUG - start of factorial (9)
+2020-05-22 15:51:09,071 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:09,071 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:09,071 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:09,071 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:09,071 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:09,071 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:09,071 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:09,072 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:09,072 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:09,072 - DEBUG - return value is 362880
+2020-05-22 15:51:09,072 - DEBUG - end of program
+2020-05-22 15:51:10,766 - DEBUG - start of program
+2020-05-22 15:51:10,766 - DEBUG - start of factorial (9)
+2020-05-22 15:51:10,766 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:10,766 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:10,766 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:10,766 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:10,766 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:10,766 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:10,766 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:10,766 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:10,766 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:10,766 - DEBUG - return value is 362880
+2020-05-22 15:51:10,767 - DEBUG - end of program
+2020-05-22 15:51:18,081 - DEBUG - start of program
+2020-05-22 15:51:18,631 - DEBUG - start of factorial (9)
+2020-05-22 15:51:18,631 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:18,631 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:18,631 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:18,631 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:18,632 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:18,632 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:18,632 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:18,632 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:18,632 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:18,632 - DEBUG - return value is 362880
+2020-05-22 15:51:23,557 - DEBUG - end of program
+2020-05-22 15:51:37,512 - DEBUG - start of program
+2020-05-22 15:51:42,164 - DEBUG - start of factorial (9)
+2020-05-22 15:51:42,164 - DEBUG - i is 1, total is 1
+2020-05-22 15:51:42,164 - DEBUG - i is 2, total is 2
+2020-05-22 15:51:42,164 - DEBUG - i is 3, total is 6
+2020-05-22 15:51:42,165 - DEBUG - i is 4, total is 24
+2020-05-22 15:51:42,165 - DEBUG - i is 5, total is 120
+2020-05-22 15:51:42,165 - DEBUG - i is 6, total is 720
+2020-05-22 15:51:42,165 - DEBUG - i is 7, total is 5040
+2020-05-22 15:51:42,165 - DEBUG - i is 8, total is 40320
+2020-05-22 15:51:42,166 - DEBUG - i is 9, total is 362880
+2020-05-22 15:51:42,166 - DEBUG - return value is 362880
+2020-05-22 15:51:43,151 - DEBUG - end of program
+2020-05-22 15:55:46,042 - DEBUG - start of program
+2020-05-22 15:55:46,042 - DEBUG - start of factorial (9)
+2020-05-22 15:55:46,042 - DEBUG - i is 1, total is 1
+2020-05-22 15:55:46,042 - DEBUG - i is 2, total is 2
+2020-05-22 15:55:46,042 - DEBUG - i is 3, total is 6
+2020-05-22 15:55:46,042 - DEBUG - i is 4, total is 24
+2020-05-22 15:55:46,042 - DEBUG - i is 5, total is 120
+2020-05-22 15:55:46,042 - DEBUG - i is 6, total is 720
+2020-05-22 15:55:46,042 - DEBUG - i is 7, total is 5040
+2020-05-22 15:55:46,043 - DEBUG - i is 8, total is 40320
+2020-05-22 15:55:46,043 - DEBUG - i is 9, total is 362880
+2020-05-22 15:55:46,043 - DEBUG - return value is 362880
+2020-05-22 15:55:46,043 - DEBUG - end of program
+2020-05-22 15:55:51,231 - DEBUG - start of program
+2020-05-22 15:55:51,231 - DEBUG - start of factorial (9)
+2020-05-22 15:55:51,231 - DEBUG - i is 1, total is 1
+2020-05-22 15:55:51,231 - DEBUG - i is 2, total is 2
+2020-05-22 15:55:51,231 - DEBUG - i is 3, total is 6
+2020-05-22 15:55:51,231 - DEBUG - i is 4, total is 24
+2020-05-22 15:55:51,231 - DEBUG - i is 5, total is 120
+2020-05-22 15:55:51,231 - DEBUG - i is 6, total is 720
+2020-05-22 15:55:51,232 - DEBUG - i is 7, total is 5040
+2020-05-22 15:55:51,232 - DEBUG - i is 8, total is 40320
+2020-05-22 15:55:51,232 - DEBUG - i is 9, total is 362880
+2020-05-22 15:55:51,232 - DEBUG - return value is 362880
+2020-05-22 15:55:51,232 - DEBUG - end of program
+2020-05-22 15:55:52,039 - DEBUG - start of program
+2020-05-22 15:55:52,039 - DEBUG - start of factorial (9)
+2020-05-22 15:55:52,039 - DEBUG - i is 1, total is 1
+2020-05-22 15:55:52,039 - DEBUG - i is 2, total is 2
+2020-05-22 15:55:52,039 - DEBUG - i is 3, total is 6
+2020-05-22 15:55:52,039 - DEBUG - i is 4, total is 24
+2020-05-22 15:55:52,039 - DEBUG - i is 5, total is 120
+2020-05-22 15:55:52,039 - DEBUG - i is 6, total is 720
+2020-05-22 15:55:52,040 - DEBUG - i is 7, total is 5040
+2020-05-22 15:55:52,040 - DEBUG - i is 8, total is 40320
+2020-05-22 15:55:52,040 - DEBUG - i is 9, total is 362880
+2020-05-22 15:55:52,040 - DEBUG - return value is 362880
+2020-05-22 15:55:52,040 - DEBUG - end of program
+2020-05-22 15:55:55,514 - DEBUG - start of program
+2020-05-22 15:55:55,514 - DEBUG - start of factorial (9)
+2020-05-22 15:55:55,514 - DEBUG - i is 1, total is 1
+2020-05-22 15:55:55,514 - DEBUG - i is 2, total is 2
+2020-05-22 15:55:55,514 - DEBUG - i is 3, total is 6
+2020-05-22 15:55:55,514 - DEBUG - i is 4, total is 24
+2020-05-22 15:55:55,514 - DEBUG - i is 5, total is 120
+2020-05-22 15:55:55,514 - DEBUG - i is 6, total is 720
+2020-05-22 15:55:55,514 - DEBUG - i is 7, total is 5040
+2020-05-22 15:55:55,514 - DEBUG - i is 8, total is 40320
+2020-05-22 15:55:55,514 - DEBUG - i is 9, total is 362880
+2020-05-22 15:55:55,514 - DEBUG - return value is 362880
+2020-05-22 15:55:55,515 - DEBUG - end of program
+2020-05-22 16:01:25,328 - DEBUG - start of program
+2020-05-22 16:01:25,328 - DEBUG - start of factorial (9)
+2020-05-22 16:01:25,328 - DEBUG - i is 1, total is 1
+2020-05-22 16:01:25,328 - DEBUG - i is 2, total is 2
+2020-05-22 16:01:25,328 - DEBUG - i is 3, total is 6
+2020-05-22 16:01:25,328 - DEBUG - i is 4, total is 24
+2020-05-22 16:01:25,328 - DEBUG - i is 5, total is 120
+2020-05-22 16:01:25,328 - DEBUG - i is 6, total is 720
+2020-05-22 16:01:25,328 - DEBUG - i is 7, total is 5040
+2020-05-22 16:01:25,329 - DEBUG - i is 8, total is 40320
+2020-05-22 16:01:25,329 - DEBUG - i is 9, total is 362880
+2020-05-22 16:01:25,329 - DEBUG - return value is 362880
+2020-05-22 16:01:25,329 - DEBUG - end of program
+2020-05-22 16:01:29,313 - DEBUG - start of program
+2020-05-22 16:26:37,943 - DEBUG - Starting new HTTPS connection (1): automatetheboringstuff.com:443
+2020-05-22 16:26:38,241 - DEBUG - https://automatetheboringstuff.com:443 "GET /files/rj.txt HTTP/1.1" 200 None
+2020-05-22 16:27:00,474 - DEBUG - Starting new HTTPS connection (1): automatetheboringstuff.com:443
+2020-05-22 16:27:00,555 - DEBUG - https://automatetheboringstuff.com:443 "GET /files/rj.txt HTTP/1.1" 200 None
+2020-05-22 16:27:59,659 - DEBUG - Starting new HTTPS connection (1): automatetheboringstuff.com:443
+2020-05-22 16:27:59,748 - DEBUG - https://automatetheboringstuff.com:443 "GET /files/rj.txt HTTP/1.1" 200 None
+2020-05-22 16:30:25,832 - DEBUG - Starting new HTTPS connection (1): automatetheboringstuff.com:443
+2020-05-22 16:30:25,901 - DEBUG - https://automatetheboringstuff.com:443 "GET /jf;alskdfjh;wlkajwe;lrkjas;dfl HTTP/1.1" 404 315
